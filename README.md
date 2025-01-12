@@ -31,5 +31,6 @@ Text Summarization: Generating concise representations of documents.
 Speech-to-Text Conversion: Used in virtual assistants like Siri.
 
 Tuning Hyperparameters: This refers to adjusting settings like learning rate, batch size, and optimizer to improve model performance during training. These parameters are set before training and impact how the model learns.
+
 Adjusting Layers: This involves changing the architecture of the neural network by adding, removing, or modifying layers (e.g., dense, convolutional, or recurrent layers) to better capture patterns in the data.
 
