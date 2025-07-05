@@ -24,7 +24,7 @@ This method increased the accuracy to 0.953 or around that value and the overfit
 In the second task we learnt how to apply LSTM models on time-series data and explore how changes in model architecture and hyperparameters affect the results. We started with the provided sample code, which used LSTMs to predict sequential data, and then went on to experiment with the model architecture by adding more LSTM layers and dense layers, adjusting the number of neurons, and incorporating Dropout layers to study their impact on the model's complexity and performance.
 From this task we learnt about RNNs and LSTMs. Their architecture and working, how they are very useful in processing sequential data and how  we can apply it on real world data.
 # TASK-3
-In this task, we will be going through the encoder and decoder models using LSTM and RNN, specifically we will be learning the transformer architecture. Also, we will go through the tuning the hyperparameters and layers.The Encoder-Decoder architecture is a framework for handling sequence-to-sequence tasks, such as translation and summarization. It maps variable-length input sequences to variable-length outputs using two main components.
+In this task, we will be going through the encoder and decoder models using attention mechanisms. Also, we will go through the tuning the hyperparameters and layers.The Encoder-Decoder architecture is a framework for handling sequence-to-sequence tasks, such as translation and summarization. It maps variable-length input sequences to variable-length outputs using two main components.
 Basic applications of the transormer model are 
 Machine Translation: E.g., Google Translate.
 Text Summarization: Generating concise representations of documents.
